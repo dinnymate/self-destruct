@@ -1,0 +1,1 @@
+# self-destruct [![Clojars Project](https://img.shields.io/clojars/v/self-destruct.svg)](https://clojars.org/self-destruct)
