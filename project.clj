@@ -1,4 +1,4 @@
-(defproject self-destruct "0.1.0-SNAPSHOT"
+(defproject self-destruct "0.1.0"
   :description "Create custom destructure functions for Clojure"
   :url "http://github.com/dinnymate/self-destruct"
   :license {:name "MIT"}
